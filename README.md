@@ -16,7 +16,10 @@ Should there be country names present in the Entity list, they will be used as a
 There will also be Sentiment Analysis performed on the textual data to understand its outlook - whether it has negative or positive connotations. This will be helpful for the User when choosing articles to work with.
 
 ## Acknowledgements
-Elayalwar Surya Prakash
-\nToh Jun Sheng
-\nLee Yun Jia
-\nManimaran Vasumathi
+Elayalwar Surya Prakash 
+
+Toh Jun Sheng
+
+Lee Yun Jia
+
+Manimaran Vasumathi
