@@ -17,6 +17,6 @@ There will also be Sentiment Analysis performed on the textual data to understan
 
 ## Acknowledgements
 Elayalwar Surya Prakash
-Toh Jun Sheng
-Lee Yun Jia
-Manimaran Vasumathi
+\nToh Jun Sheng
+\nLee Yun Jia
+\nManimaran Vasumathi
