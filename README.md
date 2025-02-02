@@ -9,7 +9,7 @@ The purpose of our project is to grant Users greater control over the content th
 ## Features
 We have incorporated several techniques into our Natural Language Processing model. The most notable features, that directly impact the User would be:
 ### Reliability check
-Based on the URL of the article, the user will be flagged. This will be performed by scanning the URL - the prefix (www), main body (site name) and postfix (domain name).
+Based on the URL of the article, the User will be flagged. This will be performed by scanning the URL - the prefix (www), main body (site name) and postfix (domain name).
 ### Common Topic
 Should there be country names present in the Entity list, they will be used as a common topic for the text, otherwise, Latent Dirichlet Allocation (LDA) will be performed on the entire text to obtain a common topic. These summary words will then be used to help the User find relevant articles faster.
 ### Sentiment Analysis	
